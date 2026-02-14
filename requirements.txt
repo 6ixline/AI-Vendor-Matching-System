@@ -1,0 +1,26 @@
+# FastAPI Core
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Vector Database
+qdrant-client==1.12.1
+
+# Embeddings - Local
+sentence-transformers==3.3.1
+torch==2.5.1
+transformers==4.46.3
+numpy==2.1.3
+
+# Embeddings - API
+openai==1.55.3
+cohere==5.11.4
+
+# Utilities
+python-dotenv==1.0.1
+python-multipart==0.0.12
+httpx==0.28.0
+
+# Logging
+loguru==0.7.3

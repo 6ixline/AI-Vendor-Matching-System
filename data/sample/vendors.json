@@ -1,0 +1,178 @@
+[
+  {
+    "vendor_id": "V001",
+    "company_name": "TechBuild Solutions Pvt Ltd",
+    "description": "Leading enterprise software development company specializing in cloud infrastructure, microservices architecture, and AI/ML solutions with proven track record in healthcare and fintech sectors.",
+    "industries": ["Information Technology", "Healthcare", "Financial Services"],
+    "categories": ["Software Development", "Cloud Services", "AI/ML", "Consulting"],
+    "products": [
+      "Cloud Migration Services",
+      "Microservices Development",
+      "AI/ML Solutions",
+      "Mobile App Development",
+      "DevOps Consulting",
+      "Healthcare Software",
+      "Fintech Solutions"
+    ],
+    "business_type": "Service Provider",
+    "states": ["Karnataka", "Maharashtra", "Delhi", "Tamil Nadu"],
+    "annual_turnover": "10-25 Crores",
+    "certifications": ["ISO 9001:2015", "SOC 2", "HIPAA", "AWS Certified Partner", "CMMI Level 3"]
+  },
+  {
+    "vendor_id": "V002",
+    "company_name": "GreenBuild Construction Ltd",
+    "description": "Sustainable construction company focused on eco-friendly building materials, LEED certification, and renewable energy integration in commercial buildings with 15 years experience.",
+    "industries": ["Construction", "Real Estate", "Renewable Energy"],
+    "categories": ["Green Building", "Commercial Construction", "Solar Installation"],
+    "products": [
+      "LEED Certified Construction",
+      "Solar Panel Installation",
+      "Sustainable Building Materials",
+      "Energy Efficient HVAC",
+      "Rainwater Harvesting Systems",
+      "Green Roofing Solutions"
+    ],
+    "business_type": "Contractor",
+    "states": ["Maharashtra", "Gujarat", "Karnataka"],
+    "annual_turnover": "50-100 Crores",
+    "certifications": ["LEED AP", "ISO 14001", "General Contractor License", "NABCEP Solar", "IGBC Certified"]
+  },
+  {
+    "vendor_id": "V003",
+    "company_name": "SecureNet Cybersecurity Services",
+    "description": "Premier cybersecurity firm providing penetration testing, security audits, SOC services, and compliance consulting for financial institutions and government agencies with 24/7 support.",
+    "industries": ["Information Technology", "Cybersecurity", "Financial Services"],
+    "categories": ["Cybersecurity", "IT Security", "Compliance Consulting"],
+    "products": [
+      "Penetration Testing",
+      "Security Audits",
+      "SOC Operations",
+      "Incident Response",
+      "Compliance Consulting",
+      "Vulnerability Assessment",
+      "Security Training"
+    ],
+    "business_type": "Service Provider",
+    "states": ["Delhi", "Maharashtra", "Karnataka", "Telangana"],
+    "annual_turnover": "5-10 Crores",
+    "certifications": ["CISSP", "CEH", "ISO 27001", "PCI DSS", "SOC 2", "CISA"]
+  },
+  {
+    "vendor_id": "V004",
+    "company_name": "DataInsight Analytics Pvt Ltd",
+    "description": "Business intelligence and data analytics consulting firm specializing in building data warehouses, creating dashboards, and implementing predictive analytics for retail and e-commerce.",
+    "industries": ["Information Technology", "Retail", "E-commerce"],
+    "categories": ["Data Analytics", "Business Intelligence", "Machine Learning"],
+    "products": [
+      "Business Intelligence Solutions",
+      "Data Warehousing",
+      "Predictive Analytics",
+      "Dashboard Development",
+      "ETL Services",
+      "Machine Learning Models",
+      "Big Data Solutions"
+    ],
+    "business_type": "Service Provider",
+    "states": ["Maharashtra", "Karnataka", "Telangana"],
+    "annual_turnover": "5-10 Crores",
+    "certifications": ["Microsoft Certified Data Analyst", "Tableau Desktop Certified", "AWS Big Data", "Google Cloud Certified"]
+  },
+  {
+    "vendor_id": "V005",
+    "company_name": "MediSupply Logistics India",
+    "description": "Medical equipment supplier and logistics provider specializing in cold chain management, medical device distribution, and hospital inventory management systems with FDA compliant operations.",
+    "industries": ["Healthcare", "Logistics", "Medical Equipment"],
+    "categories": ["Medical Supplies", "Healthcare Logistics", "Cold Chain"],
+    "products": [
+      "Medical Equipment Supply",
+      "Cold Chain Logistics",
+      "Hospital Inventory Management",
+      "Medical Device Distribution",
+      "Emergency Medical Supplies",
+      "Pharmaceutical Logistics"
+    ],
+    "business_type": "Supplier and Distributor",
+    "states": ["Telangana", "Karnataka", "Tamil Nadu", "Maharashtra", "Delhi"],
+    "annual_turnover": "25-50 Crores",
+    "certifications": ["FDA Registered", "ISO 13485", "Good Distribution Practice", "HACCP", "WHO-GMP"]
+  },
+  {
+    "vendor_id": "V006",
+    "company_name": "SafetyFirst Equipment Co",
+    "description": "Leading manufacturer and supplier of industrial safety equipment including helmets, protective clothing, safety shoes, and fire safety equipment for construction and manufacturing sectors.",
+    "industries": ["Manufacturing", "Construction", "Industrial Safety"],
+    "categories": ["Safety Equipment", "Personal Protective Equipment", "Fire Safety"],
+    "products": [
+      "Safety Helmets",
+      "Protective Clothing",
+      "Safety Shoes",
+      "Fire Extinguishers",
+      "First Aid Kits",
+      "Safety Harness",
+      "Industrial Gloves"
+    ],
+    "business_type": "Manufacturer",
+    "states": ["Maharashtra", "Gujarat", "Karnataka", "Tamil Nadu"],
+    "annual_turnover": "10-25 Crores",
+    "certifications": ["ISI Marked", "CE Certified", "ISO 9001:2015", "BIS Certified", "ANSI Approved"]
+  },
+  {
+    "vendor_id": "V007",
+    "company_name": "AgriTech Solutions India",
+    "description": "Agricultural technology provider offering precision farming solutions, IoT sensors, drone services, and farm management software for modern agriculture and food processing industries.",
+    "industries": ["Agriculture", "Technology", "Food Processing"],
+    "categories": ["Agricultural Technology", "Precision Farming", "IoT Solutions"],
+    "products": [
+      "Precision Farming Solutions",
+      "Agricultural Drones",
+      "IoT Sensors",
+      "Farm Management Software",
+      "Irrigation Systems",
+      "Crop Monitoring Systems"
+    ],
+    "business_type": "Technology Provider",
+    "states": ["Maharashtra", "Punjab", "Haryana", "Karnataka", "Uttar Pradesh"],
+    "annual_turnover": "5-10 Crores",
+    "certifications": ["ISO 9001", "DGCA Approved", "CE Certified", "ICAR Approved"]
+  },
+  {
+    "vendor_id": "V008",
+    "company_name": "PowerGrid Solutions Ltd",
+    "description": "Electrical engineering firm specializing in power distribution, substation installation, renewable energy integration, and electrical maintenance services for industrial and commercial clients.",
+    "industries": ["Engineering", "Power & Energy", "Infrastructure"],
+    "categories": ["Electrical Engineering", "Power Distribution", "Renewable Energy"],
+    "products": [
+      "Power Distribution Systems",
+      "Substation Installation",
+      "Solar Power Integration",
+      "Electrical Maintenance",
+      "Energy Audits",
+      "Transformer Installation"
+    ],
+    "business_type": "Engineering Contractor",
+    "states": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Telangana"],
+    "annual_turnover": "25-50 Crores",
+    "certifications": ["ISO 9001", "Electrical Contractor License", "IEEE Member", "CEA Approved"]
+  },
+  {
+    "vendor_id": "V009",
+    "company_name": "Office Supplies India Pvt Ltd",
+    "description": "Leading supplier of office stationery, writing instruments, and school supplies. We deal in pens, pencils, notebooks, files, and all office essentials.",
+    "industries": ["Manufacturing", "Wholesale Trade", "Education"],
+    "categories": ["Stationery Products", "Office Supplies", "Writing Instruments"],
+    "products": [
+      "Pencils", 
+      "Pens", 
+      "Notebooks", 
+      "Erasers", 
+      "Sharpeners", 
+      "Staplers", 
+      "File Folders"
+    ],
+    "business_type": "Manufacturer and Wholesaler",
+    "states": ["Maharashtra", "Delhi", "Karnataka", "Gujarat"],
+    "annual_turnover": "10-25 Crores",
+    "certifications": ["ISO 9001:2015", "BIS Certified"]
+  }
+]

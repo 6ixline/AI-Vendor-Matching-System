@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  AI-Matching-System:
+    build: .
+    container_name: AI-Matching-System
+    ports:
+      - "8000:8000"
+    environment:
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+    env_file:
+      - .env
+    volumes:
+      - ./models_cache:/root/.cache/huggingface
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+    networks:
+      - search-network
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant-vector-db
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_storage:/qdrant/storage
+    restart: unless-stopped
+    networks:
+      - search-network
+
+volumes:
+  qdrant_storage:
+    driver: local
+
+networks:
+  search-network:
+    driver: bridge
