@@ -24,7 +24,7 @@
 
 ## 🎯 Overview
 
-This AI Matching Engine is a sophisticated recommendation system designed to solve the complex problem of matching vendors with tender opportunities. Traditional keyword-based matching often fails to capture semantic relationships and business context. This system leverages state-of-the-art AI embeddings and vector similarity search to deliver highly relevant matches.
+This AI Matching Engine is a sophisticated recommendation system designed to solve the complex problem of matching Tender with Vendors. Traditional keyword-based matching often fails to capture semantic relationships and business context. This system leverages state-of-the-art AI embeddings and vector similarity search to deliver highly relevant matches.
 
 ### The Problem It Solves
 
